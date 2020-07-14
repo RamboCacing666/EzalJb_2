@@ -1,11 +1,11 @@
 # Build and Release Folders
-bin-debug/
+bin-debug/sudo python setup.py install3
 bin-release/
 [Oo]bj/
 [Bb]in/
 
 # Other files and folders
-.settings/
+.settings/flight-manual.atom.io/content/upgrading-to-1-0-apis/sections/upgrading-your-ui-theme-or-package-selectors.md
 
 # Executables
 *.swf
